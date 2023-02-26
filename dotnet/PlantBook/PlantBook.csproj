@@ -10,21 +10,27 @@
     <Authors>Dennis Geldhof</Authors>
     <Version>1.0.0</Version>    
     <PackageLicenseUrl></PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/denxorz/PlantBook</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/slaxor505/OpenPlantbook-client</PackageProjectUrl>
     <Copyright>Copyright @ Dennis Geldhof 2023</Copyright>    
     <PackageIconUrl></PackageIconUrl>
-    <RepositoryUrl>https://github.com/denxorz/PlantBook</RepositoryUrl>
+    <RepositoryUrl>https://github.com/slaxor505/OpenPlantbook-client/dotnet</RepositoryUrl>
     <PackageTags>PlantBook Plant Plants</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>PlantBook</PackageId>
-    <PackageIcon>icons8-potted-plant-48.png</PackageIcon>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Title>PlantBook.io</Title>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIcon>icons8-potted-plant-48.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="..\icons8-potted-plant-48.png">
       <Pack>True</Pack>
-      <PackagePath></PackagePath>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
     </None>
   </ItemGroup>
 
