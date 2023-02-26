@@ -8,7 +8,7 @@
     <Description>This library adds support for plantbook.io</Description>
     <Company>Denxorz</Company>
     <Authors>Dennis Geldhof</Authors>
-    <Version>1.0.0</Version>    
+    <Version>1.1.0</Version>    
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/slaxor505/OpenPlantbook-client</PackageProjectUrl>
     <Copyright>Copyright @ Dennis Geldhof 2023</Copyright>    
