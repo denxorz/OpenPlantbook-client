@@ -83,9 +83,3 @@ public interface IPlantBook
 * [Icons8](https://icons8.com/)
 * [NuGet](https://www.nuget.org/)
 * [GitHub](https://github.com/)
-
-
-## Versions & Release Notes
-
-version 1.1: Add Cancellation tokens
-version 1.0: First version
